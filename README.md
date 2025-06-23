@@ -25,3 +25,16 @@ How to use this repository
     Run the Jupyter notebooks to explore the data
     Run the Python scripts to train the models
     Run the Streamlit app for the full experience!
+2 Related Work
+
+3 Methodology
+
+3.1 General Methodology
+
+3.2 Data Understanding and Preparation
+
+3.3 Modelling and Evaluation
+
+4 Results
+
+5 Discussion
