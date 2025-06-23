@@ -27,6 +27,9 @@ How to use this repository
     Run the Streamlit app for the full experience!
 2 Related Work
 
+    >Artikel "Clothing similarity computation based on TLAC" (https://www.emerald.com/insight/content/doi/10.1108/09556221211232856/full/html)
+    
+
 3 Methodology    
 3.1 General Methodology
     
@@ -39,7 +42,11 @@ How to use this repository
 3.2 Data Understanding and Preparation
 
     >1.Datensatz von kaggle, welcher aber zu klein war (https://www.kaggle.com/datasets/gustavofadel/clothes-dataset)
+        >Kategorisieren der Kleidungsstückarten
+        >Stückanzahl Ausgabe jeder Klasse
+        
     >2.Datensatz von tensorflow
+    
 
 3.3 Modelling and Evaluation
 
